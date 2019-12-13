@@ -1,4 +1,4 @@
-![Olympics symbol](olympPic.jpg)
+![Olympics symbol](images/olympPic.jpg)
 
 # The Olympics Data Viz
 
