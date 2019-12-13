@@ -1,0 +1,324 @@
+Year,City,Sport,Athlete,Country,Gender,Event,Medal
+1924,Chamonix,Skating,"Be_CKL, Willy",AUT,Men,Individual,Silver
+1924,Chamonix,Skating,"SZABO-PLANK, Herma",AUT,Women,Individual,Gold
+1924,Chamonix,Skating,"BERGER, Alfred",AUT,Men,Pairs,Gold
+1924,Chamonix,Skating,"ENGELMANN, Helene",AUT,Women,Pairs,Gold
+1924,Chamonix,Bobsleigh,"MORTIAUX, Rene",BEL,Men,Four-Man,Bronze
+1924,Chamonix,Bobsleigh,"MULDER, Charles",BEL,Men,Four-Man,Bronze
+1924,Chamonix,Bobsleigh,"VAN DEN BROECK, Paul",BEL,Men,Four-Man,Bronze
+1924,Chamonix,Bobsleigh,"VERSCHUEREN, Victor",BEL,Men,Four-Man,Bronze
+1924,Chamonix,Bobsleigh,"WILLIEMS, Henri",BEL,Men,Four-Man,Bronze
+1924,Chamonix,Ice Hockey,"CAMERON, Jack",CAN,Men,Ice Hockey,Gold
+1924,Chamonix,Ice Hockey,"COLLETT, Ernest J.",CAN,Men,Ice Hockey,Gold
+1924,Chamonix,Ice Hockey,"MAC CAFFERY, Albert",CAN,Men,Ice Hockey,Gold
+1924,Chamonix,Ice Hockey,"MAC MUNN, Harold",CAN,Men,Ice Hockey,Gold
+1924,Chamonix,Ice Hockey,"MUNRO, Duncan",CAN,Men,Ice Hockey,Gold
+1924,Chamonix,Ice Hockey,"RAMSAY, W.-Beattie",CAN,Men,Ice Hockey,Gold
+1924,Chamonix,Ice Hockey,"SLATER, Cyril",CAN,Men,Ice Hockey,Gold
+1924,Chamonix,Ice Hockey,"SMITH, Reginald",CAN,Men,Ice Hockey,Gold
+1924,Chamonix,Ice Hockey,"WATSON, Harry",CAN,Men,Ice Hockey,Gold
+1924,Chamonix,Biathlon,"BREMER, V.E.",FIN,Men,Military Patrol,Silver
+1924,Chamonix,Biathlon,"ESKELINEN, A.",FIN,Men,Military Patrol,Silver
+1924,Chamonix,Biathlon,"HIRVONEN, H.",FIN,Men,Military Patrol,Silver
+1924,Chamonix,Biathlon,"LAPPALAINEN, Martti",FIN,Men,Military Patrol,Silver
+1924,Chamonix,Skating,"JAKOBSSON, Ludowika",FIN,Women,Pairs,Silver
+1924,Chamonix,Skating,"JAKOBSSON, Walter",FIN,Men,Pairs,Silver
+1924,Chamonix,Skating,"SKUTNABB, Julius",FIN,Men,10000M,Gold
+1924,Chamonix,Skating,"THUNBERG, Clas",FIN,Men,10000M,Silver
+1924,Chamonix,Skating,"THUNBERG, Clas",FIN,Men,1500M,Gold
+1924,Chamonix,Skating,"THUNBERG, Clas",FIN,Men,5000M,Gold
+1924,Chamonix,Skating,"SKUTNABB, Julius",FIN,Men,5000M,Silver
+1924,Chamonix,Skating,"THUNBERG, Clas",FIN,Men,500M,Bronze
+1924,Chamonix,Skating,"SKUTNABB, Julius",FIN,Men,Combined (4 Events),Bronze
+1924,Chamonix,Skating,"THUNBERG, Clas",FIN,Men,Combined (4 Events),Gold
+1924,Chamonix,Skiing,"NIKU, Tapani",FIN,Men,18KM,Bronze
+1924,Chamonix,Biathlon,"BERTHET, G.",FRA,Men,Military Patrol,Bronze
+1924,Chamonix,Biathlon,"MANDRILLON, C.",FRA,Men,Military Patrol,Bronze
+1924,Chamonix,Biathlon,"MANDRILLON, Maurice",FRA,Men,Military Patrol,Bronze
+1924,Chamonix,Biathlon,"VANDELLE, Andre",FRA,Men,Military Patrol,Bronze
+1924,Chamonix,Curling,"ALDEERT, H.",FRA,Men,Curling,Bronze
+1924,Chamonix,Curling,"ANDRE, Georges",FRA,Men,Curling,Bronze
+1924,Chamonix,Curling,BENEDIC,FRA,Men,Curling,Bronze
+1924,Chamonix,Curling,"CANIVET, P.",FRA,Men,Curling,Bronze
+1924,Chamonix,Curling,"COURNOLLET, F.",FRA,Men,Curling,Bronze
+1924,Chamonix,Curling,"PLANQUE, R.",FRA,Men,Curling,Bronze
+1924,Chamonix,Skating,"BRUNET, Andree",FRA,Women,Pairs,Bronze
+1924,Chamonix,Skating,"BRUNET, Pierre",FRA,Men,Pairs,Bronze
+1924,Chamonix,Bobsleigh,"ARNOLD, Thomas",GBR,Men,Four-Man,Silver
+1924,Chamonix,Bobsleigh,"BROOME, Ralpf",GBR,Men,Four-Man,Silver
+1924,Chamonix,Bobsleigh,"RICHARDSON, Alexander",GBR,Men,Four-Man,Silver
+1924,Chamonix,Bobsleigh,"SOHER, Rodney",GBR,Men,Four-Man,Silver
+1924,Chamonix,Curling,"AIKMAN, T.",GBR,Men,Curling,Gold
+1924,Chamonix,Curling,"ASTLEY, D.-G.",GBR,Men,Curling,Gold
+1924,Chamonix,Curling,"BROWN, V.",GBR,Men,Curling,Gold
+1924,Chamonix,Curling,"COUSIN, R.",GBR,Men,Curling,Gold
+1924,Chamonix,Curling,"JACKSON, V.-K.",GBR,Men,Curling,Gold
+1924,Chamonix,Curling,"MC LEOD, J.",GBR,Men,Curling,Gold
+1924,Chamonix,Curling,"MURRAY, T.-B.",GBR,Men,Curling,Gold
+1924,Chamonix,Curling,"WELSH, R.",GBR,Men,Curling,Gold
+1924,Chamonix,Ice Hockey,"ANDERSON, William",GBR,Men,Ice Hockey,Bronze
+1924,Chamonix,Ice Hockey,"BOULDEN, C.-B.",GBR,Men,Ice Hockey,Bronze
+1924,Chamonix,Ice Hockey,"CARR-HARRIS, Louis Howland",GBR,Men,Ice Hockey,Bronze
+1924,Chamonix,Ice Hockey,"CARRUTHERS, Colin Gordon",GBR,Men,Ice Hockey,Bronze
+1924,Chamonix,Ice Hockey,"CARRUTHERS, Eric Dudley",GBR,Men,Ice Hockey,Bronze
+1924,Chamonix,Ice Hockey,"CLARKSON, Guy E.",GBR,Men,Ice Hockey,Bronze
+1924,Chamonix,Ice Hockey,"CUTHBERT, Ross George",GBR,Men,Ice Hockey,Bronze
+1924,Chamonix,Ice Hockey,"HOLMES, George",GBR,Men,Ice Hockey,Bronze
+1924,Chamonix,Ice Hockey,"JUKES, Hamilton",GBR,Men,Ice Hockey,Bronze
+1924,Chamonix,Ice Hockey,"PATTON, B.-N.",GBR,Men,Ice Hockey,Bronze
+1924,Chamonix,Ice Hockey,"PITBLADO, Edward",GBR,Men,Ice Hockey,Bronze
+1924,Chamonix,Ice Hockey,"SEXTON, Blane Nathaniel",GBR,Men,Ice Hockey,Bronze
+1924,Chamonix,Skating,"MUCKELT, Ethel",GBR,Women,Individual,Bronze
+1924,Chamonix,Skating,"LARSEN, Roald",NOR,Men,10000M,Bronze
+1924,Chamonix,Skating,"MOEN, Sigurd",NOR,Men,1500M,Bronze
+1924,Chamonix,Skating,"LARSEN, Roald",NOR,Men,1500M,Silver
+1924,Chamonix,Skating,"LARSEN, Roald",NOR,Men,5000M,Bronze
+1924,Chamonix,Skating,"LARSEN, Roald",NOR,Men,500M,Bronze
+1924,Chamonix,Skating,"OLSEN, Oskar",NOR,Men,500M,Silver
+1924,Chamonix,Skating,"LARSEN, Roald",NOR,Men,Combined (4 Events),Silver
+1924,Chamonix,Skiing,"HAUG, Thorleif",NOR,Men,18KM,Gold
+1924,Chamonix,Skiing,"GROTTUMSBRAATEN, Johan",NOR,Men,18KM,Silver
+1924,Chamonix,Skiing,"GROTTUMSBRAATEN, Johan",NOR,Men,50KM,Bronze
+1924,Chamonix,Skiing,"HAUG, Thorleif",NOR,Men,50KM,Gold
+1924,Chamonix,Skiing,"STRe_MSTAD, Thoralf",NOR,Men,50KM,Silver
+1924,Chamonix,Skiing,"GROTTUMSBRAATEN, Johan",NOR,Men,Individual,Bronze
+1924,Chamonix,Skiing,"HAUG, Thorleif",NOR,Men,Individual,Gold
+1924,Chamonix,Skiing,"STRe_MSTAD, Thoralf",NOR,Men,Individual,Silver
+1924,Chamonix,Skiing,"THAMS, Jacob Tullin",NOR,Men,K90 Individual (70M),Gold
+1924,Chamonix,Skiing,"BONNA, Narve",NOR,Men,K90 Individual (70M),Silver
+1924,Chamonix,Biathlon,"AUFDENBLATTEN, Adolf",SUI,Men,Military Patrol,Gold
+1924,Chamonix,Biathlon,"JULEN, Alphonse",SUI,Men,Military Patrol,Gold
+1924,Chamonix,Biathlon,"JULEN, Ant.",SUI,Men,Military Patrol,Gold
+1924,Chamonix,Biathlon,"VAUCHER, D.",SUI,Men,Military Patrol,Gold
+1924,Chamonix,Bobsleigh,"NEVEU, Alfred",SUI,Men,Four-Man,Gold
+1924,Chamonix,Bobsleigh,"SCHERRER, Eduard",SUI,Men,Four-Man,Gold
+1924,Chamonix,Bobsleigh,"SCHLePPI, Alfred",SUI,Men,Four-Man,Gold
+1924,Chamonix,Bobsleigh,"SCHLePPI, Heinrich",SUI,Men,Four-Man,Gold
+1924,Chamonix,Skating,"GAUTSCHI, Georges",SUI,Men,Individual,Bronze
+1924,Chamonix,Curling,"AHLEN, J.P.",SWE,Men,Curling,Silver
+1924,Chamonix,Curling,"KRONLUND, Carl Augustus Verner",SWE,Men,Curling,Silver
+1924,Chamonix,Curling,"ODLUND, T.-M.",SWE,Men,Curling,Silver
+1924,Chamonix,Curling,"PETERSEN, C.-W.",SWE,Men,Curling,Silver
+1924,Chamonix,Curling,"PETTERSSON, C.-A.-F.",SWE,Men,Curling,Silver
+1924,Chamonix,Curling,"SEVERIN, E.-O.",SWE,Men,Curling,Silver
+1924,Chamonix,Curling,"WAHLBERG, K.-E.",SWE,Men,Curling,Silver
+1924,Chamonix,Curling,"WETTERSTROM, V.-E.",SWE,Men,Curling,Silver
+1924,Chamonix,Skating,"GRAFSTRe_M, Gillis",SWE,Men,Individual,Gold
+1924,Chamonix,Ice Hockey,"ABEL, Clarence John",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"DRURY, Herbert L.",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"GERAN, N.",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"LACROIX, Alphonse",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"LANGLEY, John Arthur",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"LYONS, John Sharkey",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"MAC CARTHY, Justin",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"RICE, Willard",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"SMALL, Irving Wheeler",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"SYNNOTT, Francis Allen",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Skating,"LOUGHRAN, Beatrix",USA,Women,Individual,Silver
+1924,Chamonix,Skating,"JEWTRAW, Charles",USA,Men,500M,Gold
+1924,Chamonix,Skiing,"HAUGEN, Anders",USA,Men,K90 Individual (70M),Bronze
+1928,St.Moritz,Skating,"Be_CKL, Willy",AUT,Men,Individual,Silver
+1928,St.Moritz,Skating,"BURGER, Fritzi",AUT,Women,Individual,Silver
+1928,St.Moritz,Skating,"BRUNNER, Melitta",AUT,Women,Pairs,Bronze
+1928,St.Moritz,Skating,"WREDE, Ludwig",AUT,Men,Pairs,Bronze
+1928,St.Moritz,Skating,"KAISER, Otto",AUT,Men,Pairs,Silver
+1928,St.Moritz,Skating,"SCHOLZ, Lilly",AUT,Women,Pairs,Silver
+1928,St.Moritz,Skating,"VAN ZEEBROECK, Robert",BEL,Men,Individual,Bronze
+1928,St.Moritz,Ice Hockey,"DELAHAY, Charles",CAN,Men,Ice Hockey,Gold
+1928,St.Moritz,Ice Hockey,"FISHER, Franlyn Wood",CAN,Men,Ice Hockey,Gold
+1928,St.Moritz,Ice Hockey,"HUDSON, Henry Louis",CAN,Men,Ice Hockey,Gold
+1928,St.Moritz,Ice Hockey,"MUELLER, Norbert Edward",CAN,Men,Ice Hockey,Gold
+1928,St.Moritz,Ice Hockey,"PLAXTON, Herbert Alfred",CAN,Men,Ice Hockey,Gold
+1928,St.Moritz,Ice Hockey,"PLAXTON, Hugh John",CAN,Men,Ice Hockey,Gold
+1928,St.Moritz,Ice Hockey,"PLAXTON, Rogers Hayward",CAN,Men,Ice Hockey,Gold
+1928,St.Moritz,Ice Hockey,"PORTER, John Chester",CAN,Men,Ice Hockey,Gold
+1928,St.Moritz,Ice Hockey,"SULLIVAN, Frank Gerald",CAN,Men,Ice Hockey,Gold
+1928,St.Moritz,Ice Hockey,"SULLIVAN, Joseph Taylor",CAN,Men,Ice Hockey,Gold
+1928,St.Moritz,Ice Hockey,"TAYLOR, Ross Croft",CAN,Men,Ice Hockey,Gold
+1928,St.Moritz,Ice Hockey,"TROTTIER, David",CAN,Men,Ice Hockey,Gold
+1928,St.Moritz,Skating,"THUNBERG, Clas",FIN,Men,1500M,Gold
+1928,St.Moritz,Skating,"SKUTNABB, Julius",FIN,Men,5000M,Silver
+1928,St.Moritz,Skating,"FRIMAN, Jaakko",FIN,Men,500M,Bronze
+1928,St.Moritz,Skating,"THUNBERG, Clas",FIN,Men,500M,Gold
+1928,St.Moritz,Skating,"BRUNET, Andree",FRA,Women,Pairs,Gold
+1928,St.Moritz,Skating,"BRUNET, Pierre",FRA,Men,Pairs,Gold
+1928,St.Moritz,Bobsleigh,"NORTHESK, David, Earl of",GBR,Men,Individual,Bronze
+1928,St.Moritz,Bobsleigh,"HESS, Hans",GER,Men,Five-Man,Bronze
+1928,St.Moritz,Bobsleigh,"HUBER, Sebastian",GER,Men,Five-Man,Bronze
+1928,St.Moritz,Bobsleigh,"KILIAN, Hanns",GER,Men,Five-Man,Bronze
+1928,St.Moritz,Bobsleigh,"KREMPL, Valentin",GER,Men,Five-Man,Bronze
+1928,St.Moritz,Bobsleigh,"NeGLE, Hanns",GER,Men,Five-Man,Bronze
+1928,St.Moritz,Skating,"HENIE, Sonja",NOR,Women,Individual,Gold
+1928,St.Moritz,Skating,"BALLANGRUD, Ivar",NOR,Men,1500M,Bronze
+1928,St.Moritz,Skating,"EVENSEN, Bernt",NOR,Men,1500M,Silver
+1928,St.Moritz,Skating,"EVENSEN, Bernt",NOR,Men,5000M,Bronze
+1928,St.Moritz,Skating,"BALLANGRUD, Ivar",NOR,Men,5000M,Gold
+1928,St.Moritz,Skating,"LARSEN, Roald",NOR,Men,500M,Bronze
+1928,St.Moritz,Skating,"EVENSEN, Bernt",NOR,Men,500M,Gold
+1928,St.Moritz,Skiing,"e_DEGAARD, Reidar",NOR,Men,18KM,Bronze
+1928,St.Moritz,Skiing,"GROTTUMSBRAATEN, Johan",NOR,Men,18KM,Gold
+1928,St.Moritz,Skiing,"HEGGE, Ole",NOR,Men,18KM,Silver
+1928,St.Moritz,Skiing,"SNERSRUD, John",NOR,Men,Individual,Bronze
+1928,St.Moritz,Skiing,"GROTTUMSBRAATEN, Johan",NOR,Men,Individual,Gold
+1928,St.Moritz,Skiing,"VINJARENGEN, Hans",NOR,Men,Individual,Silver
+1928,St.Moritz,Skiing,"ANDERSEN, Alf",NOR,Men,K90 Individual (70M),Gold
+1928,St.Moritz,Skiing,"RUUD, Sigmund",NOR,Men,K90 Individual (70M),Silver
+1928,St.Moritz,Ice Hockey,"ANDREOSSI, Giannin",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,"ANDREOSSI, Mezzi",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,"BREITER, Robert",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,"DUFOUR, Louis",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,"FASEL, Charles",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,"GEROMINI, Albert",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,"KRAATZ, Fritz",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,"MARTIGNONI, Arnold",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,"MENG, Heini",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,"MOROSANI, Anton",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,"ReeEDI, Luzius",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,"TORRIANI, Richard",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,"ABRAHAMSSON, Carl",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Ice Hockey,"BERGMAN, Emil",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Ice Hockey,"HOLMQVIST, Birger",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Ice Hockey,"JOHANSSON, Gustaf",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Ice Hockey,"JOHANSSON, Henry",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Ice Hockey,"JOHANSSON, Nils",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Ice Hockey,"KARLBERG, Ernst",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Ice Hockey,"LARSSON, Erik",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Ice Hockey,"LINDE, Bertil",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Ice Hockey,"e_BERG, Sigfrid",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Ice Hockey,"PETERSEN, Wilhelm",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Ice Hockey,"SUCKSDORFF, Kurt",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Skating,"GRAFSTRe_M, Gillis",SWE,Men,Individual,Gold
+1928,St.Moritz,Skiing,"ANDERSSON, Volger",SWE,Men,50KM,Bronze
+1928,St.Moritz,Skiing,"HEDLUND, Per Erik",SWE,Men,50KM,Gold
+1928,St.Moritz,Skiing,"JONSSON, Gustav",SWE,Men,50KM,Silver
+1928,St.Moritz,Skiing,"BURKERT, Rudolf",TCH,Men,K90 Individual (70M),Bronze
+1928,St.Moritz,Bobsleigh,"FISKE, William",USA,Men,Five-Man,Gold
+1928,St.Moritz,Bobsleigh,"GRAY, Clifford Barton",USA,Men,Five-Man,Gold
+1928,St.Moritz,Bobsleigh,"MASON, Geoffrey Travers",USA,Men,Five-Man,Gold
+1928,St.Moritz,Bobsleigh,"PARKE, Richard",USA,Men,Five-Man,Gold
+1928,St.Moritz,Bobsleigh,"TUCKER, Nion",USA,Men,Five-Man,Gold
+1928,St.Moritz,Bobsleigh,"DOE, Thomas",USA,Men,Five-Man,Silver
+1928,St.Moritz,Bobsleigh,"GRANGER, David",USA,Men,Five-Man,Silver
+1928,St.Moritz,Bobsleigh,"HEATON, Jennison",USA,Men,Five-Man,Silver
+1928,St.Moritz,Bobsleigh,"HINE, Lyman",USA,Men,Five-Man,Silver
+1928,St.Moritz,Bobsleigh,"O'BRIEN, Jay James",USA,Men,Five-Man,Silver
+1928,St.Moritz,Bobsleigh,"HEATON, Jennison",USA,Men,Individual,Gold
+1928,St.Moritz,Bobsleigh,"HEATON, John",USA,Men,Individual,Silver
+1928,St.Moritz,Skating,"LOUGHRAN, Beatrix",USA,Women,Individual,Bronze
+1928,St.Moritz,Skating,"FARRELL, John O",USA,Men,500M,Bronze
+1932,Lake Placid,Skating,"SCHeFER, Karl",AUT,Men,Individual,Gold
+1932,Lake Placid,Skating,"BURGER, Fritzi",AUT,Women,Individual,Silver
+1932,Lake Placid,Ice Hockey,"COCKBURN, William George",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"CROWLEY, Clifford",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"DUNCANSON, Albert",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"GARBUTT, George",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"HINKEL, Roy",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"LINDQUIST, C. Victor",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"MALLOY, Norman",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"MONSON, Walter",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"MOORE, Kenneth",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"RIVERS, N.Romeo",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"SIMPSON, Harold",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"SUTHERLAND, Hugh",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"WAGNER, W. Stanley",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Ice Hockey,"WISE, J. Alliston",CAN,Men,Ice Hockey,Gold
+1932,Lake Placid,Skating,"WILSON, Montgomery",CAN,Men,Individual,Bronze
+1932,Lake Placid,Skating,"STACK, Frank",CAN,Men,10000M,Bronze
+1932,Lake Placid,Skating,"LOGAN, William F.",CAN,Men,1500M,Bronze
+1932,Lake Placid,Skating,"HURD, Alexander",CAN,Men,1500M,Silver
+1932,Lake Placid,Skating,"LOGAN, William F.",CAN,Men,5000M,Bronze
+1932,Lake Placid,Skating,"HURD, Alexander",CAN,Men,500M,Bronze
+1932,Lake Placid,Skiing,"SAARINEN, Veli",FIN,Men,18KM,Bronze
+1932,Lake Placid,Skiing,"SAARINEN, Veli",FIN,Men,50KM,Gold
+1932,Lake Placid,Skiing,"LIIKKANEN, Ve_ine_",FIN,Men,50KM,Silver
+1932,Lake Placid,Skating,"BRUNET, Andree",FRA,Women,Pairs,Gold
+1932,Lake Placid,Skating,"BRUNET, Pierre",FRA,Men,Pairs,Gold
+1932,Lake Placid,Bobsleigh,"BREHME, Albert",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"GRAU, Fritz",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"HOPMANN, Helmut",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"HUBER, Sebastian",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"HUTH, Werner",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"KILIAN, Hanns",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"KROTKI, Rudolf",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"LUDWIG, Max",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"MEHLHHORN, Hans",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"ROSSNER, Heinrich",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"ZAHN, Werner",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Ice Hockey,"BALL, Rudolf",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"HEINRICH, Alfred",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"HERKER, Erich",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"JeNECKE, Gustav",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"KORFF, Werner",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"LEINWEBER, Walter",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"Re_MER, Erich",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"SCHRe_TTLE, Martin",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"SLEVOGT, Marquardt",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"STROBL, Georg",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Skating,"ROTTER, Emilia",HUN,Women,Pairs,Bronze
+1932,Lake Placid,Skating,"SZOLLAS, Laszlo",HUN,Men,Pairs,Bronze
+1932,Lake Placid,Skating,"HENIE, Sonja",NOR,Women,Individual,Gold
+1932,Lake Placid,Skating,"BALLANGRUD, Ivar",NOR,Men,10000M,Silver
+1932,Lake Placid,Skating,"EVENSEN, Bernt",NOR,Men,500M,Silver
+1932,Lake Placid,Skiing,"RUSTADSTUEN, Arne",NOR,Men,50KM,Bronze
+1932,Lake Placid,Skiing,"VINJARENGEN, Hans",NOR,Men,Individual,Bronze
+1932,Lake Placid,Skiing,"GROTTUMSBRAATEN, Johan",NOR,Men,Individual,Gold
+1932,Lake Placid,Skiing,"STENEN, Ole",NOR,Men,Individual,Silver
+1932,Lake Placid,Skiing,"WALBERG, Kaare",NOR,Men,K90 Individual (70M),Bronze
+1932,Lake Placid,Skiing,"RUUD, Birger",NOR,Men,K90 Individual (70M),Gold
+1932,Lake Placid,Skiing,"BECK, Hans",NOR,Men,K90 Individual (70M),Silver
+1932,Lake Placid,Bobsleigh,"CAPADRUTT, Reto",SUI,Men,Two-Man,Silver
+1932,Lake Placid,Bobsleigh,"FONJALLAZ, Gaston",SUI,Men,Two-Man,Silver
+1932,Lake Placid,Bobsleigh,"FONJALLAZ, Gustave",SUI,Men,Two-Man,Silver
+1932,Lake Placid,Bobsleigh,"FONJALLAZ, Rene",SUI,Men,Two-Man,Silver
+1932,Lake Placid,Bobsleigh,"GEIER, Oscar",SUI,Men,Two-Man,Silver
+1932,Lake Placid,Bobsleigh,"JENNY, Charles",SUI,Men,Two-Man,Silver
+1932,Lake Placid,Bobsleigh,"KLOETTA, Antoine",SUI,Men,Two-Man,Silver
+1932,Lake Placid,Bobsleigh,"STAUFFER, William",SUI,Men,Two-Man,Silver
+1932,Lake Placid,Skating,"GRAFSTRe_M, Gillis",SWE,Men,Individual,Silver
+1932,Lake Placid,Skiing,"UTTERSTRe_M, Sven",SWE,Men,18KM,Gold
+1932,Lake Placid,Skiing,"WIKSTRe_M, Axel",SWE,Men,18KM,Silver
+1932,Lake Placid,Bobsleigh,"EAGAN, Edward",USA,Men,Four-Man,Gold
+1932,Lake Placid,Bobsleigh,"FISKE, William",USA,Men,Four-Man,Gold
+1932,Lake Placid,Bobsleigh,"GRAY, Clifford Barton",USA,Men,Four-Man,Gold
+1932,Lake Placid,Bobsleigh,"O'BRIEN, Jay James",USA,Men,Four-Man,Gold
+1932,Lake Placid,Bobsleigh,"STEVENS, J. Hubert",USA,Men,Four-Man,Gold
+1932,Lake Placid,Bobsleigh,"ASHFORTH, Albert",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"BRYANT, Precy D.",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"GOODRICH, Hunter",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"HACKNEY, Clement",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"HOMBURGER, Henry A.",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"HORTON, Edmund C",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"LIPSON, Howard S",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"MARTIN, Harry G",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"STEVENS, Curtis",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"STEVENS, Francis Paul",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"BRYANT, Precy D.",USA,Men,Two-Man,Bronze
+1932,Lake Placid,Bobsleigh,"HEATON, John",USA,Men,Two-Man,Bronze
+1932,Lake Placid,Bobsleigh,"HOMBURGER, Henry A.",USA,Men,Two-Man,Bronze
+1932,Lake Placid,Bobsleigh,"MARTIN, Harry G",USA,Men,Two-Man,Bronze
+1932,Lake Placid,Bobsleigh,"MINTON, Robert",USA,Men,Two-Man,Bronze
+1932,Lake Placid,Bobsleigh,"STEVENS, J. Hubert",USA,Men,Two-Man,Bronze
+1932,Lake Placid,Bobsleigh,"ARTHUR, Adams",USA,Men,Two-Man,Gold
+1932,Lake Placid,Bobsleigh,"STEVENS, Curtis",USA,Men,Two-Man,Gold
+1932,Lake Placid,Ice Hockey,"ANDERSON, Osborn",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"BENT, John Peale",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"CHASE, John Pierce",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"COOKMAN, John Emery",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"EVERETT, Douglas Newton",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"FARRELL, Franklin",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"FITZGERALD, Joseph",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"FRAZIER, Edward Hartwell",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"GARRISON, John Bright",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"HALLOCK, Gerard",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"LIVINGSTON, Robert Cambridge",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"NELSON, Francis Augustus",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"PALMER, Winthrop Hale",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"SMITH, Gordon",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Skating,"VINSON, Maribel",USA,Women,Individual,Bronze
+1932,Lake Placid,Skating,"BADGER, Sherwin",USA,Men,Pairs,Silver
+1932,Lake Placid,Skating,"LOUGHRAN, Beatrix",USA,Women,Pairs,Silver
+1932,Lake Placid,Skating,"JAFFEE, Irving",USA,Men,10000M,Gold
+1932,Lake Placid,Skating,"SHEA, John A.",USA,Men,1500M,Gold
+1932,Lake Placid,Skating,"JAFFEE, Irving",USA,Men,5000M,Gold
+1932,Lake Placid,Skating,"MURPHY, Edward",USA,Men,5000M,Silver
+1932,Lake Placid,Skating,"SHEA, John A.",USA,Men,500M,Gold

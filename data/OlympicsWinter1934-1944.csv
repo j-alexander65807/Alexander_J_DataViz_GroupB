@@ -1,0 +1,109 @@
+Year,City,Sport,Athlete,Country,Gender,Event,Medal
+1936,Garmisch Partenkirchen,Skating,"KASPAR, Felix",AUT,Men,Individual,Bronze
+1936,Garmisch Partenkirchen,Skating,"SCHeFER, Karl",AUT,Men,Individual,Gold
+1936,Garmisch Partenkirchen,Skating,"PAUSIN, Erik",AUT,Men,Pairs,Silver
+1936,Garmisch Partenkirchen,Skating,"PAUSIN, Ilse",AUT,Women,Pairs,Silver
+1936,Garmisch Partenkirchen,Skating,"STIEPL, Max",AUT,Men,10000M,Bronze
+1936,Garmisch Partenkirchen,Ice Hockey,"DEACON, Maxwell Arnold",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Ice Hockey,"FARGUHARSON, Hugh",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Ice Hockey,"FARMER-HORN, Kenneth",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Ice Hockey,"HAGGARTY, James",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Ice Hockey,"KITCHEN, Walter",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Ice Hockey,"MILTON, Raymond",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Ice Hockey,"MOORE, Francis",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Ice Hockey,"MURRAY, Herman",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Ice Hockey,"NASH, Arthur",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Ice Hockey,"NEVILLE, David John",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Ice Hockey,"SINCLAIR, Alexander",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Ice Hockey,"ST.GERMAIN, Ralph",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Ice Hockey,"THOMSON, William",CAN,Men,Ice Hockey,Silver
+1936,Garmisch Partenkirchen,Skating,"WASENIUS, Birger",FIN,Men,10000M,Silver
+1936,Garmisch Partenkirchen,Skating,"WASENIUS, Birger",FIN,Men,1500M,Bronze
+1936,Garmisch Partenkirchen,Skating,"OJALA, Antero",FIN,Men,5000M,Bronze
+1936,Garmisch Partenkirchen,Skating,"WASENIUS, Birger",FIN,Men,5000M,Silver
+1936,Garmisch Partenkirchen,Skiing,"NIEMI, Pekka",FIN,Men,18KM,Bronze
+1936,Garmisch Partenkirchen,Skiing,"JALKANEN, Kalle",FIN,Men,4X10KM Relay,Gold
+1936,Garmisch Partenkirchen,Skiing,"KARPPINEN, Klaus",FIN,Men,4X10KM Relay,Gold
+1936,Garmisch Partenkirchen,Skiing,"LeHDE, Matti",FIN,Men,4X10KM Relay,Gold
+1936,Garmisch Partenkirchen,Skiing,"NURMELA, Sulo",FIN,Men,4X10KM Relay,Gold
+1936,Garmisch Partenkirchen,Skiing,"ALLAIS, Emile",FRA,Men,Alpine Combined,Bronze
+1936,Garmisch Partenkirchen,Bobsleigh,"CARDNO, James Farquhar",GBR,Men,Four-Man,Bronze
+1936,Garmisch Partenkirchen,Bobsleigh,"DUGDALE, Gary",GBR,Men,Four-Man,Bronze
+1936,Garmisch Partenkirchen,Bobsleigh,"GREEN, Charles Patrick",GBR,Men,Four-Man,Bronze
+1936,Garmisch Partenkirchen,Bobsleigh,"MCEVOY, Frederick James",GBR,Men,Four-Man,Bronze
+1936,Garmisch Partenkirchen,Ice Hockey,"ARCHER, Alexander",GBR,Men,Ice Hockey,Gold
+1936,Garmisch Partenkirchen,Ice Hockey,"BORLAND, James Andrew",GBR,Men,Ice Hockey,Gold
+1936,Garmisch Partenkirchen,Ice Hockey,"BRENCHLEY, Edgar",GBR,Men,Ice Hockey,Gold
+1936,Garmisch Partenkirchen,Ice Hockey,"CHAPPELL, James",GBR,Men,Ice Hockey,Gold
+1936,Garmisch Partenkirchen,Ice Hockey,"COWARD, John",GBR,Men,Ice Hockey,Gold
+1936,Garmisch Partenkirchen,Ice Hockey,"DAILLEY, Gordon Debenham",GBR,Men,Ice Hockey,Gold
+1936,Garmisch Partenkirchen,Ice Hockey,"DAVEY, John Gerald",GBR,Men,Ice Hockey,Gold
+1936,Garmisch Partenkirchen,Ice Hockey,"ERHARDT, Carl",GBR,Men,Ice Hockey,Gold
+1936,Garmisch Partenkirchen,Ice Hockey,"FOSTER, James",GBR,Men,Ice Hockey,Gold
+1936,Garmisch Partenkirchen,Ice Hockey,"KILPATRICK, John",GBR,Men,Ice Hockey,Gold
+1936,Garmisch Partenkirchen,Ice Hockey,"STINCHCOMBE, Archibald",GBR,Men,Ice Hockey,Gold
+1936,Garmisch Partenkirchen,Ice Hockey,"WYMAN, Robert",GBR,Men,Ice Hockey,Gold
+1936,Garmisch Partenkirchen,Skating,"COLLEDGE, Cecilia",GBR,Women,Individual,Silver
+1936,Garmisch Partenkirchen,Skating,"BAIER, Ernst",GER,Men,Individual,Silver
+1936,Garmisch Partenkirchen,Skating,"BAIER, Ernst",GER,Men,Pairs,Gold
+1936,Garmisch Partenkirchen,Skating,"HERBER, Maxi",GER,Women,Pairs,Gold
+1936,Garmisch Partenkirchen,Skiing,"PFNeeR, Franz",GER,Men,Alpine Combined,Gold
+1936,Garmisch Partenkirchen,Skiing,"LANTSCHNER, Gustav",GER,Men,Alpine Combined,Silver
+1936,Garmisch Partenkirchen,Skiing,"CRANZ, Christel",GER,Women,Alpine Combined,Gold
+1936,Garmisch Partenkirchen,Skiing,"GRASEGGER, Ke_the",GER,Women,Alpine Combined,Silver
+1936,Garmisch Partenkirchen,Skating,"ROTTER, Emilia",HUN,Women,Pairs,Bronze
+1936,Garmisch Partenkirchen,Skating,"SZOLLAS, Laszlo",HUN,Men,Pairs,Bronze
+1936,Garmisch Partenkirchen,Skating,"HENIE, Sonja",NOR,Women,Individual,Gold
+1936,Garmisch Partenkirchen,Skating,"BALLANGRUD, Ivar",NOR,Men,10000M,Gold
+1936,Garmisch Partenkirchen,Skating,"MATHISEN, Charles",NOR,Men,1500M,Gold
+1936,Garmisch Partenkirchen,Skating,"BALLANGRUD, Ivar",NOR,Men,1500M,Silver
+1936,Garmisch Partenkirchen,Skating,"BALLANGRUD, Ivar",NOR,Men,5000M,Gold
+1936,Garmisch Partenkirchen,Skating,"BALLANGRUD, Ivar",NOR,Men,500M,Gold
+1936,Garmisch Partenkirchen,Skating,"KROG, Georg",NOR,Men,500M,Silver
+1936,Garmisch Partenkirchen,Skiing,"SCHOU-NILSEN, Laila",NOR,Women,Alpine Combined,Bronze
+1936,Garmisch Partenkirchen,Skiing,"HAGEN, Oddbjorn",NOR,Men,18KM,Silver
+1936,Garmisch Partenkirchen,Skiing,"BRODAHL, Sverre",NOR,Men,4X10KM Relay,Silver
+1936,Garmisch Partenkirchen,Skiing,"HAGEN, Oddbjorn",NOR,Men,4X10KM Relay,Silver
+1936,Garmisch Partenkirchen,Skiing,"HOFFSBAKKEN, Olaf",NOR,Men,4X10KM Relay,Silver
+1936,Garmisch Partenkirchen,Skiing,"IVERSEN, Bjarne",NOR,Men,4X10KM Relay,Silver
+1936,Garmisch Partenkirchen,Skiing,"BRODAHL, Sverre",NOR,Men,Individual,Bronze
+1936,Garmisch Partenkirchen,Skiing,"HAGEN, Oddbjorn",NOR,Men,Individual,Gold
+1936,Garmisch Partenkirchen,Skiing,"HOFFSBAKKEN, Olaf",NOR,Men,Individual,Silver
+1936,Garmisch Partenkirchen,Skiing,"ANDERSEN, Reidar",NOR,Men,K90 Individual (70M),Bronze
+1936,Garmisch Partenkirchen,Skiing,"RUUD, Birger",NOR,Men,K90 Individual (70M),Gold
+1936,Garmisch Partenkirchen,Bobsleigh,"BEERLI, Joseph",SUI,Men,Four-Man,Gold
+1936,Garmisch Partenkirchen,Bobsleigh,"BOUVIER, Charles",SUI,Men,Four-Man,Gold
+1936,Garmisch Partenkirchen,Bobsleigh,"GARTMANN, Arnold",SUI,Men,Four-Man,Gold
+1936,Garmisch Partenkirchen,Bobsleigh,"MUSY, Pierre",SUI,Men,Four-Man,Gold
+1936,Garmisch Partenkirchen,Bobsleigh,"AICHELE, Hans",SUI,Men,Four-Man,Silver
+1936,Garmisch Partenkirchen,Bobsleigh,"BeeTIKOFER, Hans",SUI,Men,Four-Man,Silver
+1936,Garmisch Partenkirchen,Bobsleigh,"CAPADRUTT, Reto",SUI,Men,Four-Man,Silver
+1936,Garmisch Partenkirchen,Bobsleigh,"FEIERABEND, Fritz",SUI,Men,Four-Man,Silver
+1936,Garmisch Partenkirchen,Bobsleigh,"BEERLI, Joseph",SUI,Men,Two-Man,Silver
+1936,Garmisch Partenkirchen,Bobsleigh,"FEIERABEND, Fritz",SUI,Men,Two-Man,Silver
+1936,Garmisch Partenkirchen,Skating,"HULTEN, Vivi-Anne",SWE,Women,Individual,Bronze
+1936,Garmisch Partenkirchen,Skiing,"LARSSON, Erik August",SWE,Men,18KM,Gold
+1936,Garmisch Partenkirchen,Skiing,"BERGER, John",SWE,Men,4X10KM Relay,Bronze
+1936,Garmisch Partenkirchen,Skiing,"HeGGBLAD, Artur",SWE,Men,4X10KM Relay,Bronze
+1936,Garmisch Partenkirchen,Skiing,"LARSSON, Erik August",SWE,Men,4X10KM Relay,Bronze
+1936,Garmisch Partenkirchen,Skiing,"MATSBO, Martin",SWE,Men,4X10KM Relay,Bronze
+1936,Garmisch Partenkirchen,Skiing,"ENGLUND, Nils-Joel",SWE,Men,50KM,Bronze
+1936,Garmisch Partenkirchen,Skiing,"WIKLUND, Elis",SWE,Men,50KM,Gold
+1936,Garmisch Partenkirchen,Skiing,"WIKSTRe_M, Axel",SWE,Men,50KM,Silver
+1936,Garmisch Partenkirchen,Skiing,"ERIKSSON, Sven",SWE,Men,K90 Individual (70M),Silver
+1936,Garmisch Partenkirchen,Bobsleigh,"COLGATE, Gilbert",USA,Men,Two-Man,Bronze
+1936,Garmisch Partenkirchen,Bobsleigh,"LAWRENCE, Richard Webster",USA,Men,Two-Man,Bronze
+1936,Garmisch Partenkirchen,Bobsleigh,"BROWN, Ivan Elmore",USA,Men,Two-Man,Gold
+1936,Garmisch Partenkirchen,Bobsleigh,"WASHBOND, Alan M.",USA,Men,Two-Man,Gold
+1936,Garmisch Partenkirchen,Ice Hockey,"GARRISON, John Bright",USA,Men,Ice Hockey,Bronze
+1936,Garmisch Partenkirchen,Ice Hockey,"KAMMER, August",USA,Men,Ice Hockey,Bronze
+1936,Garmisch Partenkirchen,Ice Hockey,"LA BATTE, Philip William",USA,Men,Ice Hockey,Bronze
+1936,Garmisch Partenkirchen,Ice Hockey,"LAX, John Charles",USA,Men,Ice Hockey,Bronze
+1936,Garmisch Partenkirchen,Ice Hockey,"MOONE, Thomas",USA,Men,Ice Hockey,Bronze
+1936,Garmisch Partenkirchen,Ice Hockey,"ROSS, Eldridge Baker",USA,Men,Ice Hockey,Bronze
+1936,Garmisch Partenkirchen,Ice Hockey,"ROWE, Paul Edward",USA,Men,Ice Hockey,Bronze
+1936,Garmisch Partenkirchen,Ice Hockey,"SHAUGHNESSY, Francis John",USA,Men,Ice Hockey,Bronze
+1936,Garmisch Partenkirchen,Ice Hockey,"SMITH, Gordon",USA,Men,Ice Hockey,Bronze
+1936,Garmisch Partenkirchen,Ice Hockey,"SPAIN, Francis Jones",USA,Men,Ice Hockey,Bronze
+1936,Garmisch Partenkirchen,Ice Hockey,"STUBBS, Frank Raymond",USA,Men,Ice Hockey,Bronze
+1936,Garmisch Partenkirchen,Skating,"FREISINGER, Leo",USA,Men,500M,Bronze

@@ -7,12 +7,12 @@ bronzes = []
 
 categories = [] # first row -> not date
 
-with open('data/mensMedals.csv') as csvfile:
+with open('mensMedals.csv') as csvfile:
 	reader = csv.reader(csvfile)
 	line_count = 0
 
 	for row in reader:
-		if line_count is 0:
+		if line_count == 0:
 			print("this is the first row in the spreadsheet")
 			categories.append(row)
 			line_count += 1
